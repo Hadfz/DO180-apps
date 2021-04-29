@@ -9,7 +9,7 @@
     "express": "~4.14.x",
     "description": "Hello World!",
     "main": "app.js",
-    "scripts": {
+    "script": {
 	    "start": "node app.js"
     },
     "author": "Red Hat Training",
